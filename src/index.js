@@ -24,9 +24,9 @@ import convController from './app/conversation/conversation.controller.js';
 import convMsgController from './app/conversation/conversationMessage/conversation.message.controller.js';
 
 export const app = 'leanMessage';
-const appId = 'm7baukzusy3l5coew0b3em5uf4df5i2krky0ypbmee358yon';
-const appKey = '2e46velw0mqrq3hl2a047yjtpxn32frm0m253k258xo63ft9';
-const server = 'https://m7baukzu.lc-cn-n1-shared.com';
+const appId = 'NVQA2c8ORNw7EIPjeRm2Jqp9-gzGzoHsz';
+const appKey = '5aLRtwOssKgUjPy7ozbL1qce';
+const server = 'https://nvqa2c8o.lc-cn-n1-shared.com';
 
 AV.init({appId, appKey, serverURL: server});
 
